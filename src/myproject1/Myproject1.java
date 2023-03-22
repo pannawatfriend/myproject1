@@ -17,6 +17,7 @@ public class Myproject1 {
         System.out.println("Hello World");
         System.out.println("second");
         System.out.println("hello Programing");
+        System.out.println("Hello Python");
     }
     
 }
